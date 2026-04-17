@@ -11,7 +11,7 @@ function Footer() {
 	};
 	const favIcon={
 		color:"#fff",
-		fontSize:"25px",
+		fontSize:"26px",
 		fontWeight: "bold",
 	};
 	const textBold={
